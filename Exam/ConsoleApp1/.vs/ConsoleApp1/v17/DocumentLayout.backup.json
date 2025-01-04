@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\exam\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exam\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\questions\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\questions\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\questions\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\questions\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\route\\oop\\exam\\consoleapp1\\consoleapp1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E59B99-8751-4E3C-BE48-4845F2194D54}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Exam\\PracticalExam.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\PracticalExam.cs",
+              "RelativeToolTip": "ConsoleApp1\\Exam\\PracticalExam.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:24:33.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\FinalExam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Exam\\FinalExam.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\FinalExam.cs",
+              "RelativeToolTip": "ConsoleApp1\\Exam\\FinalExam.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:04:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Subject.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Subject.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Subject.cs",
+              "RelativeToolTip": "ConsoleApp1\\Subject.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:04:09.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\Answer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Questions\\Answer.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\Answer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Questions\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:55:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrueOrFalseQuestion.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\TrueOrFalseQuestion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Questions\\TrueOrFalseQuestion.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\TrueOrFalseQuestion.cs",
+              "RelativeToolTip": "ConsoleApp1\\Questions\\TrueOrFalseQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:54:09.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MCQQuestion.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\MCQQuestion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Questions\\MCQQuestion.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Questions\\MCQQuestion.cs",
+              "RelativeToolTip": "ConsoleApp1\\Questions\\MCQQuestion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:53:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\Exam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Exam\\Exam.cs",
+              "ToolTip": "E:\\Courses\\Route\\OOP\\Exam\\ConsoleApp1\\ConsoleApp1\\Exam\\Exam.cs",
+              "RelativeToolTip": "ConsoleApp1\\Exam\\Exam.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:49:49.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
